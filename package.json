@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "THIS REPOSITORY SHOULD ONLY BE USED FOR TESTING.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogdans3/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogdans3/test/issues"
+  },
+  "homepage": "https://github.com/ogdans3/test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
